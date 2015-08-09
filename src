@@ -1,0 +1,18 @@
+import java.util.Scanner;
+
+class division{
+	public static void main(String args[]){
+		Scanner theo = new Scanner(System.in);
+		
+		int girls, boys, people;
+		girls = 6;
+		boys = 3;
+		people =  girls / boys;
+		System.out.println(people);
+		
+	
+	}
+
+
+
+}
